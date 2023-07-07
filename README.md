@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![In jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pang-dachu&show_icons=true&theme=swift)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Pang-dachu%20render&fontSize=90)
