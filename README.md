@@ -1,4 +1,6 @@
-## 팡다츄의 깃허브에요 👋
+# 팡다츄의 깃허브에요 👋
+## 포트폴리오 및 AI 관련 공부는 노션을 방문해주세요 👋
+## bit.ly/pangdachu_notion
 
 <!--
 **Pang-dachu/Pang-dachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
