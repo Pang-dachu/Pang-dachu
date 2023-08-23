@@ -1,5 +1,5 @@
 # 팡다츄의 깃허브에요 👋
-## [포트폴리오 및 개인공부 노션](bit.ly/pangdachu_notion)
+## [포트폴리오 및 개인공부 노션](http://bit.ly/pangdachu_notion)
 
 <!--
 **Pang-dachu/Pang-dachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
